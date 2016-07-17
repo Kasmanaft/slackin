@@ -2,7 +2,7 @@
   "name": "slackin",
   "version": "0.8.4",
   "description": "Public Slack organizations made easy",
-  "repository": "rauchg/slackin",
+  "repository": "Kasmanaft/slackin",
   "babel": {
     "presets": [
       "es2015"
